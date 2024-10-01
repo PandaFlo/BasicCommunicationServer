@@ -103,5 +103,3 @@ Both the server and clients in all versions handle Ctrl+C gracefully:
 ### Contributing
 Feel free to submit pull requests to improve the functionality or add new features. Make sure to provide test cases when necessary and update the documentation.
 
-### License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
